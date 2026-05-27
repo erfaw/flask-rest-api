@@ -2,6 +2,8 @@
 
 This is a project which outputed from **[elasti_py](https://github.com/erfaw/elasti_py/tree/master/Day066-erf/1.%20introdoce%20to%20RESTful%20APIs)** repo.
 
+to make `CRUD` operations on Cafes on a city!
+
 # Endpoints
 
 1. `/` : Returns all Cafes.
