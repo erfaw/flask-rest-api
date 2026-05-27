@@ -14,14 +14,14 @@ to make `CRUD` operations on Cafes on a city!
 
 # Cafe Model
 
-* id : Primary Key Integer
-* name : String(255) Unique
-* map_url : String(500), nullable=False
-* img_url : String(500), nullable=False
-* location : String(500), nullable=False
-* seats : String(250), nullable=False
-* has_toilet : Boolean, nullable=False
-* has_wifi : Boolean, nullable=False
-* has_sockets : Boolean, nullable=False
-* can_take_calls : Boolean, nullable=False
-* coffee_price : String(250), nullable=True
+* `id` : Primary Key Integer
+* `name` : String(255) Unique
+* `map_url` : String(500), nullable=False
+* `img_url` : String(500), nullable=False
+* `location` : String(500), nullable=False
+* `seats` : String(250), nullable=False
+* `has_toilet` : Boolean, nullable=False
+* `has_wifi` : Boolean, nullable=False
+* `has_sockets` : Boolean, nullable=False
+* `can_take_calls` : Boolean, nullable=False
+* `coffee_price` : String(250), nullable=True
